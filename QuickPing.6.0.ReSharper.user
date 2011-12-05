@@ -1,0 +1,150 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml" caret="445" fromTop="10" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:App.xaml.cs" caret="0" fromTop="0" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/d:Themes/f:Generic.xaml" caret="0" fromTop="0" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="0" fromTop="0" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml.cs" caret="897" fromTop="46" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:App.xaml.cs" caret="361" fromTop="13" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/d:Themes/f:Generic.xaml" caret="665" fromTop="10" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/d:Themes/f:Generic.xaml" caret="0" fromTop="0" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2583" fromTop="12" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="557" fromTop="11" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="748" fromTop="19" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml" caret="447" fromTop="6" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2364" fromTop="30" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2364" fromTop="37" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2364" fromTop="46" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2364" fromTop="54" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2364" fromTop="32" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="307" fromTop="12" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2364" fromTop="75" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml" caret="445" fromTop="10" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml.cs" caret="897" fromTop="21" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/d:Themes/f:Generic.xaml" caret="881" fromTop="11" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2362" fromTop="39" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2164" fromTop="63" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="2364" fromTop="72" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml.cs" caret="897" fromTop="21" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml.cs" caret="897" fromTop="24" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="1226" fromTop="29" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/d:Themes/f:Generic.xaml" caret="1132" fromTop="18" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml.cs" caret="897" fromTop="20" />
+      <File id="A627C658-DF05-4067-B945-B27BDE0D3318/f:MainWindow.xaml.cs" caret="897" fromTop="34" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="1444" fromTop="35" />
+      <File id="F12CE9B5-B67B-445E-B7E2-2530BB234FB2/f:PingStatusControl.cs" caret="994" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="override" priority="31" />
+      <Item value="if" priority="127" />
+      <Item value="e" priority="95" />
+      <Item value="null" priority="31" />
+      <Item value="Length" priority="26" />
+      <Item value="Properties" priority="63" />
+      <Item value="var" priority="95" />
+      <Item value="new" priority="255" />
+      <Item value="thread" priority="31" />
+      <Item value="string" priority="127" />
+      <Item value="while" priority="31" />
+      <Item value="reply" priority="31" />
+      <Item value="throw" priority="31" />
+      <Item value="Exception" priority="28" />
+      <Item value="StatusRectangle" priority="31" />
+      <Item value="SystemColors`0" priority="31" />
+      <Item value="SolidColorBrush" priority="28" />
+      <Item value="else" priority="31" />
+      <Item value="as" priority="31" />
+      <Item value="address" priority="159" />
+      <Item value="ThreadStaticAttribute`0" priority="31" />
+      <Item value="Console`0" priority="63" />
+      <Item value="Dispatcher" priority="31" />
+      <Item value="delegate" priority="32" />
+      <Item value="AddressTextBlock" priority="31" />
+      <Item value="public" priority="95" />
+      <Item value="dependencyProperty" priority="31" />
+      <Item value="PingStatusControl`0" priority="31" />
+      <Item value="Address" priority="95" />
+      <Item value="private" priority="31" />
+      <Item value="Task`0" priority="31" />
+      <Item value="StackPanel1" priority="63" />
+      <Item value="pingStatus1" priority="63" />
+      <Item value="BorderBrush" priority="31" />
+      <Item value="Colors`0" priority="31" />
+      <Item value="void" priority="31" />
+      <Item value="_task" priority="31" />
+      <Item value="pingStatus2" priority="31" />
+      <Item value="StringCollection" priority="28" />
+      <Item value="addresses" priority="63" />
+      <Item value="foreach" priority="31" />
+      <Item value="PingStatusControl" priority="29" />
+      <Item value="status" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.StartupEventArgs">
+      <Item value="Args" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task">
+      <Item value="Start`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Properties" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Shapes.Rectangle">
+      <Item value="Fill" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="Invoke`0" priority="26" />
+      <Item value="BeginInvoke`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QuickPingControls.PingStatusControl">
+      <Item value="Fill" priority="26" />
+      <Item value="Background" priority="55" />
+      <Item value="Start`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="Children" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Clone`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Specialized.StringCollection">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

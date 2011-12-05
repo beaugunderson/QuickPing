@@ -1,0 +1,14 @@
+﻿<Window x:Class="QuickPing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:QuickPingControls="clr-namespace:QuickPingControls;assembly=QuickPingControls" 
+        Title="QuickPing" 
+        Height="200" 
+        Width="200" 
+        Loaded="Window_Loaded">
+    <Grid>
+        <StackPanel Name="StackPanel1">
+            
+        </StackPanel>
+    </Grid>
+</Window>
